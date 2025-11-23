@@ -7,7 +7,7 @@ Play it on [Itch.io!](https://s4g.itch.io/exodus)
 
 ## Responsibilities
 
-In this project I focused primarily on gameplay programming. This included also the [enemy ai](), with which I already had some experience from my [Goap RTS project.]()
+In this project I focused primarily on gameplay programming. This also included the [enemy ai](), an area in which I already had some experience from my [Goap RTS project.](https://github.com/AnubisDev161/GOAP-AI-RTS-Project)
 The most challenging and also most important part for me in this project was the [player.]()
 I was also co producer of the project and partly responsible for sound design and [sound implementation.]()
 And as always [UI]() and soume backend logik.
