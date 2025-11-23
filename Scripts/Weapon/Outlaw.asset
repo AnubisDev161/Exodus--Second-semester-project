@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d85e192d5a103b54abe7187043025c6d, type: 3}
+  m_Name: Outlaw
+  m_EditorClassIdentifier: 
+  <weaponName>k__BackingField: Hallelujah Outlaw
+  <gunType>k__BackingField: 1
+  <maxXSpread>k__BackingField: 0
+  <maxYSpread>k__BackingField: 0
+  <fireRate>k__BackingField: 0.3
+  <equipTime>k__BackingField: 0.3
+  <reloadTime>k__BackingField: 2
+  <magazineCapacity>k__BackingField: 2
+  <currentAmmo>k__BackingField: 2
+  <ammoInReserve>k__BackingField: 10
+  <maxAmmo>k__BackingField: 12
+  <infiniteAmmo>k__BackingField: 0
+  <damage>k__BackingField: 35
+  <bulletsPerShot>k__BackingField: 1
+  <bulletSpeed>k__BackingField: 1
+  <positionalRecoilSpeed>k__BackingField: 8
+  <rotationalRecoilSpeed>k__BackingField: 8
+  <positionalReturnSpeed>k__BackingField: 0
+  <rotationalReturnSpeed>k__BackingField: 0
+  <recoilRotation>k__BackingField: {x: 0, y: 0, z: 0}
+  <recoilKickBack>k__BackingField: {x: 0.015, y: 0, z: -0.2}
+  <resetDelay>k__BackingField: 0.2
+  <horizontalKickPerShot>k__BackingField: 0.2
+  <verticalKickPerShot>k__BackingField: 0.2
