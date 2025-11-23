@@ -13,8 +13,8 @@ Play it on [Itch.io!](https://s4g.itch.io/exodus)
 
 In this project I focused primarily on gameplay programming. This also included the [npc's](https://github.com/AnubisDev161/Exodus--Second-semester-project/tree/main/Scripts/NPC) and the [enemy ai](https://github.com/AnubisDev161/Exodus--Second-semester-project/blob/main/Scripts/Enemy/Enemy.cs), an area in which I already had some experience from my [Goap RTS project.](https://github.com/AnubisDev161/GOAP-AI-RTS-Project)
 The most challenging and also most important part for me in this project was the [player.](https://github.com/AnubisDev161/Exodus--Second-semester-project/blob/main/Scripts/Player/Player.cs)
-I was also co producer of the project and partly responsible for sound design and [sound implementation.]()
-And as always [UI]() and soume backend logik.
+I was also co producer of the project and partly responsible for sound design and sound implementation.
+And as always [UI](https://github.com/AnubisDev161/Exodus--Second-semester-project/tree/main/Scripts/UI) and soume backend logik.
 
 ## About the project
 
