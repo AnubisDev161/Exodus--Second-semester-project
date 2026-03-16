@@ -46,7 +46,7 @@ The actual behavior is within the player, for example "UpdateMove". The state sc
 
 <img width="1076" height="598" alt="image" src="https://github.com/user-attachments/assets/58734a72-69ca-432d-b6a7-03cf320e9689" />
 
-This approach on state machines to strictly separate what and when to execute logic from what the actual logic is doing, dramatically increases the speed in which you create new states and therefore new behavior.
+This approach on state machines to strictly separate what and when to execute logic from what the actual logic is doing, really gave us the possibility to quickly change the entire enemy and NPC behavior
 
 
 
