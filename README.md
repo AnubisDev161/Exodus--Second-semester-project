@@ -31,8 +31,7 @@ Thus it was still a big challenge, the gameplay needed to change dramatically an
 
 ### The Solution 
 This was only possible because all of our characters in the game, NPCs, Enemies and the player itself, are all based on state machines that all work in the same way.
-With this [state machine](https://github.com/AnubisDev161/Exodus--Second-semester-project/blob/main/Scripts/Player/Player_State_Machine/PlayerStateMachine.cs) setup it was rather easy to add new states and scrapp those that weren't needed anymore. The pattern was so effectvie that we succesfully changed the entire game goal
-within a single week.
+With this [state machine](https://github.com/AnubisDev161/Exodus--Second-semester-project/blob/main/Scripts/Player/Player_State_Machine/PlayerStateMachine.cs) setup it was rather easy to add new states and scrapp those that weren't needed anymore. The pattern was so effectvie that we succesfully changed the entire game goal within a single week.
 
 ### How it works
 
@@ -42,11 +41,8 @@ On the pictures below you can see a single [state script](https://github.com/Anu
 
 <img width="871" height="776" alt="image" src="https://github.com/user-attachments/assets/84383006-dc54-46b6-9a12-3a0a1a444426" />
 
-The actual behavior is within the player, for example "UpdateMove". The state script only calls the UpdateMove method or not. And therfore it is deciding, whether the player can move or not.
+The actual behavior is within the player, for example "UpdateMove". The state script only calls the UpdateMove method or not. And therfore it is deciding, whether the player can move or not in this particular state.
 
 <img width="1076" height="598" alt="image" src="https://github.com/user-attachments/assets/58734a72-69ca-432d-b6a7-03cf320e9689" />
 
-This approach on state machines to strictly separate what and when to execute logic from what the actual logic is doing, really gave us the possibility to quickly change the entire enemy and NPC behavior
-
-
-
+This state machine approach, which strictly separates the execution of logic from the logic itself, gave us the ability to quickly change the behavior of enemies and NPCs.
