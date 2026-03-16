@@ -29,8 +29,6 @@ Changing a game's core Design in the middle of its production may sound a bit cr
 Thus it was still a big challenge, the gameplay needed to change dramatically and our NPCs and Enemies needed an entire behavior rework.
 
 
-<img width="960" height="400" alt="iIGhUP" src="https://github.com/user-attachments/assets/1d7d303c-8360-4484-9d9e-fa89a562b313" />
-
 ### The Solution 
 This was only possible because all of our characters in the game, NPCs, Enemies and the player itself, are all based on state machines that all worked in the same way.
 With this state machine setup it was rather easy to add new states and scrapp those that weren't needed anymore. The pattern was so effectvie that we succesfully changed the entire game goal
