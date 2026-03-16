@@ -31,14 +31,14 @@ Thus it was still a big challenge, the gameplay needed to change dramatically an
 
 ### The Solution 
 This was only possible because all of our characters in the game, NPCs, Enemies and the player itself, are all based on state machines that all work in the same way.
-With this state machine setup it was rather easy to add new states and scrapp those that weren't needed anymore. The pattern was so effectvie that we succesfully changed the entire game goal
+With this [state machine](https://github.com/AnubisDev161/Exodus--Second-semester-project/blob/main/Scripts/Player/Player_State_Machine/PlayerStateMachine.cs) setup it was rather easy to add new states and scrapp those that weren't needed anymore. The pattern was so effectvie that we succesfully changed the entire game goal
 within a single week.
 
 ### How it works
 
 The state machine pattern is based on a simple idea, separating code in several parts - so called states - that all have their own task.
 Additionally in this project, I focused strictly on separating the "how is something done?" from the "what is supposed to happen?".
-On the pictures below you can see a single state script that's only managing what method is being triggered and when. 
+On the pictures below you can see a single [state script](https://github.com/AnubisDev161/Exodus--Second-semester-project/blob/main/Scripts/Player/Player_State_Machine/Concrete_States/PlayerWalkState.cs) that's only managing what method is being triggered and when. 
 
 <img width="871" height="776" alt="image" src="https://github.com/user-attachments/assets/84383006-dc54-46b6-9a12-3a0a1a444426" />
 
