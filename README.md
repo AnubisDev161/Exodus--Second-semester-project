@@ -34,7 +34,7 @@ This was only possible because all of our characters in the game, NPCs, Enemies 
 With this state machine setup it was rather easy to add new states and scrapp those that weren't needed anymore. The pattern was so effectvie that we succesfully changed the entire game goal
 within a single week and in the end we released a very different game than the one we came up with when we started producing.
 
-
+### the Pattern
 
 The state machine pattern is based on a simple idea, separating code in several parts - so called states - that all have their own task.
 Additionally in this project, I focused strictly on separating the "how is something done?" from "the what is supposed to happen?".
