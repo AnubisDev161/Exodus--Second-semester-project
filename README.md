@@ -47,5 +47,3 @@ The actual behavior is within the player, for example "UpdateMove". The state sc
 <img width="1214" height="597" alt="UpdateMove Method in player" src="https://github.com/user-attachments/assets/b8c728af-31da-4a0c-be04-0b7e14fc4767" />
 
 
-In our game are severeal types of characters,
-Managing all their unique behaviors can be very challenging if you don't have a clear concept of how all these characters separate their code, 
