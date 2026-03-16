@@ -44,6 +44,7 @@ On the pictures below you can see a single state script that's only managing wha
 
 The actual behavior is within the player, for example "UpdateMove". The state script only calls the UpdateMove method or not. And therfore it is deciding, whether the player can move or not.
 
-<img width="1214" height="597" alt="UpdateMove Method in player" src="https://github.com/user-attachments/assets/b8c728af-31da-4a0c-be04-0b7e14fc4767" />
+<img width="1079" height="548" alt="image" src="https://github.com/user-attachments/assets/0ac99882-a589-4267-a238-57219c6963f4" />
+
 
 
