@@ -30,7 +30,7 @@ Thus it was still a big challenge, the gameplay needed to change dramatically an
 
 
 ### The Solution 
-This was only possible because all of our characters in the game, NPCs, Enemies and the player itself, are all based on state machines that all worked in the same way.
+This was only possible because all of our characters in the game, NPCs, Enemies and the player itself, are all based on state machines that all work in the same way.
 With this state machine setup it was rather easy to add new states and scrapp those that weren't needed anymore. The pattern was so effectvie that we succesfully changed the entire game goal
 within a single week and in the end we released a very different game than the one we came up with when we started producing.
 
