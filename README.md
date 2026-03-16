@@ -38,7 +38,7 @@ within a single week and in the end we released a very different game than the o
 
 The state machine pattern is based on a simple idea, separating code in several parts - so called states - that all have their own task.
 Additionally in this project, I focused strictly on separating the "how is something done?" from the "what is supposed to happen?".
-On the pictures below you can see a single state script that's only managing what method is being triggered when executing this state. 
+On the pictures below you can see a single state script that's only managing what method is being triggered and when. 
 
 <img width="871" height="776" alt="image" src="https://github.com/user-attachments/assets/84383006-dc54-46b6-9a12-3a0a1a444426" />
 
