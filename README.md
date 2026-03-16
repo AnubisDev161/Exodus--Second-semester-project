@@ -40,10 +40,7 @@ The state machine pattern is based on a simple idea, separating code in several 
 Additionally in this project, I focused strictly on separating the "how is something done?" from "the what is supposed to happen?".
 On the pictures below you can see a single state script that s only managing what function is being triggered when executing this state. 
 
-
 <img width="1214" height="597" alt="UpdateMove Method in player" src="https://github.com/user-attachments/assets/b8c728af-31da-4a0c-be04-0b7e14fc4767" />
-
-
 The actual behavior is within the player, for example "UpdateMove". The state script only calls the UpdateMove method or not. And therfore it is deciding, whether the player can move or not.
 
 
