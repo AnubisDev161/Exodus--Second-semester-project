@@ -23,7 +23,7 @@ The programming language was C#.
 
 ## My Workflow
 
-### The problem
+### The Problem
 
 Changing a game's core Design in the middle of its production may sound a bit crazy, but at least for us, it was the best decision we ever made in the project.
 Thus it was still a big challenge, the gameplay needed to change dramatically and our NPCs and Enemies needed an entire behavior rework.
