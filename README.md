@@ -24,7 +24,7 @@ Play it on [Itch.io!](https://s4g.itch.io/exodus)
 The game was developed using the Unity game engine. Version 6000.0.51f1.
 The programming language was C#.
 
-# Example of my work 🔧
+# EXAMPLE OF MY WORK 🔧
 
 ### The Problem :x:
 Due to some Design issues we needed to change the game's entire Design in the middle of its production. This was a big challenge, the gameplay needed to change dramatically and our NPCs and Enemies needed an entire behavior rework.
