@@ -10,11 +10,11 @@ Exodus was developed as a student project at the [S4G School for Games](https://
 Play it on [Itch.io!](https://s4g.itch.io/exodus)
 
 ## Responsibilities 
-Main Focus
+### Main Focus
 - Gameplay & AI Programming, [NPCs](https://github.com/AnubisDev161/Exodus--Second-semester-project/blob/main/Scripts/NPC/ConvoyNPC.cs), [enemy AI](https://github.com/AnubisDev161/Exodus--Second-semester-project/blob/main/Scripts/Enemy/Enemy.cs), [Player.](https://github.com/AnubisDev161/Exodus--Second-semester-project/blob/main/Scripts/Player/Player.cs)
 - Co-Producing, 
   
-Additional Tasks
+### Additional Tasks
 - UI & Backend logic, [UI](https://github.com/AnubisDev161/Exodus--Second-semester-project/tree/main/Scripts/UI)
 - Sound Design
 
