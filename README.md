@@ -16,7 +16,7 @@ Play it on [Itch.io!](https://s4g.itch.io/exodus)
   
 ### Additional Tasks
 - UI & Backend logic, [UI](https://github.com/AnubisDev161/Exodus--Second-semester-project/tree/main/Scripts/UI)
-- Sound Design
+- Sound Design, managed comunication between departments
 
 
 ## Project Details
