@@ -11,7 +11,7 @@ Play it on [Itch.io!](https://s4g.itch.io/exodus)
 
 ## Responsibilities 
 Main Focus
-- Gameplay & AI Programming
+- Gameplay & AI Programming, Co-Producing
   
 Additional Tasks
 - UI & Backend logic
