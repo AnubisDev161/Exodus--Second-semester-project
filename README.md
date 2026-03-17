@@ -15,7 +15,7 @@ Play it on [Itch.io!](https://s4g.itch.io/exodus)
 - Co-Producing - managed comunication between departments
   
 ### Additional Tasks
-- UI & Backend logic, Implemented most of the HUD ([UI](https://github.com/AnubisDev161/Exodus--Second-semester-project/tree/main/Scripts/UI)
+- UI & Backend logic, Implemented most of the UI and sound system ([UI](https://github.com/AnubisDev161/Exodus--Second-semester-project/tree/main/Scripts/UI)
 - Sound Design - Searched and edited sounds
 
 
