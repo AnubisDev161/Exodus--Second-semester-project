@@ -45,4 +45,5 @@ The actual behavior is within the player, for example "UpdateMove". The state sc
 
 <img width="1076" height="598" alt="image" src="https://github.com/user-attachments/assets/58734a72-69ca-432d-b6a7-03cf320e9689" />
 
+### Conclusion
 This state machine approach, which strictly separates the execution of logic from the logic itself, gave us the ability to quickly change the behavior of enemies and NPCs.
