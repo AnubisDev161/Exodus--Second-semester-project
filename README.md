@@ -18,7 +18,7 @@ Additional Tasks
 - UI & Backend logic, [UI](https://github.com/AnubisDev161/Exodus--Second-semester-project/tree/main/Scripts/UI)
 
 
-## About the project
+## Project Details
 
 The game was developed using the Unity game engine. Version 6000.0.51f1.
 The programming language was C#.
