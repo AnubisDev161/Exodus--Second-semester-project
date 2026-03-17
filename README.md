@@ -11,7 +11,7 @@ Play it on [Itch.io!](https://s4g.itch.io/exodus)
 
 ## Responsibilities 
 ### Main Focus
-- Gameplay & AI Programming - implemented AI behavior ([NPCs](https://github.com/AnubisDev161/Exodus--Second-semester-project/blob/main/Scripts/NPC/ConvoyNPC.cs), [enemy AI](https://github.com/AnubisDev161/Exodus--Second-semester-project/blob/main/Scripts/Enemy/Enemy.cs)) and [Player](https://github.com/AnubisDev161/Exodus--Second-semester-project/blob/main/Scripts/Player/Player.cs) movement.
+- Gameplay & AI Programming - implemented AI behavior ([NPCs](https://github.com/AnubisDev161/Exodus--Second-semester-project/blob/main/Scripts/NPC/ConvoyNPC.cs), [enemy AI](https://github.com/AnubisDev161/Exodus--Second-semester-project/blob/main/Scripts/Enemy/Enemy.cs)) and the [Player controller](https://github.com/AnubisDev161/Exodus--Second-semester-project/blob/main/Scripts/Player/Player.cs)
 - Co-Producing - managed comunication between departments
   
 ### Additional Tasks
