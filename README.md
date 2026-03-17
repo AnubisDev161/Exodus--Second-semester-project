@@ -29,7 +29,7 @@ Changing a game's core Design in the middle of its production may sound a bit cr
 Thus it was still a big challenge, the gameplay needed to change dramatically and our NPCs and Enemies needed an entire behavior rework.
 
 
-### The Solution 
+### The Solution :heavy_check_mark:
 This was only possible because all of our characters in the game, NPCs, Enemies and the player itself, are all based on state machines that all work in the same way.
 With this [state machine](https://github.com/AnubisDev161/Exodus--Second-semester-project/blob/main/Scripts/Player/Player_State_Machine/PlayerStateMachine.cs) setup it was rather easy to add new states and scrapp those that weren't needed anymore. The pattern was so effectvie that we succesfully changed the entire game goal within a single week.
 
