@@ -21,9 +21,9 @@ And as always [UI](https://github.com/AnubisDev161/Exodus--Second-semester-proje
 The game was developed using the Unity game engine. Version 6000.0.51f1.
 The programming language was C#.
 
-## MY WORKFLOW 🔧
+# MY WORKFLOW 🔧
 
-### The Problem
+### The Problem :exclamation:
 
 Changing a game's core Design in the middle of its production may sound a bit crazy, but at least for us, it was the best decision we ever made in the project.
 Thus it was still a big challenge, the gameplay needed to change dramatically and our NPCs and Enemies needed an entire behavior rework.
