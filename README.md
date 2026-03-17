@@ -16,6 +16,7 @@ Main Focus
   
 Additional Tasks
 - UI & Backend logic, [UI](https://github.com/AnubisDev161/Exodus--Second-semester-project/tree/main/Scripts/UI)
+- Sound Design
 
 
 ## Project Details
