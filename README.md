@@ -9,7 +9,7 @@ Exodus was developed as a student project at the [S4G School for Games](https://
 
 Play it on [Itch.io!](https://s4g.itch.io/exodus)
 
-## Responsibilities
+## Responsibilities 
 
 In this project I focused primarily on gameplay programming. This also included the [NPCs](https://github.com/AnubisDev161/Exodus--Second-semester-project/blob/main/Scripts/NPC/ConvoyNPC.cs) and the [enemy AI](https://github.com/AnubisDev161/Exodus--Second-semester-project/blob/main/Scripts/Enemy/Enemy.cs), an area in which I already had some experience from my [Goap RTS project.](https://github.com/AnubisDev161/GOAP-AI-RTS-Project)
 The most challenging and also most important part for me in this project was the [player.](https://github.com/AnubisDev161/Exodus--Second-semester-project/blob/main/Scripts/Player/Player.cs)
@@ -21,7 +21,7 @@ And as always [UI](https://github.com/AnubisDev161/Exodus--Second-semester-proje
 The game was developed using the Unity game engine. Version 6000.0.51f1.
 The programming language was C#.
 
-## My Workflow
+## My Workflow 🔧
 
 ### The Problem
 
