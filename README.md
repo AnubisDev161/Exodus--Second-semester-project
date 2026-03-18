@@ -33,7 +33,7 @@ Due to some Design issues we needed to change the game's entire Design in the mi
 This was only possible because all of our characters in the game, NPCs, Enemies and the player itself, are all based on state machines that all work in the same way.
 With this [state machine](https://github.com/AnubisDev161/Exodus--Second-semester-project/blob/main/Scripts/Player/Player_State_Machine/PlayerStateMachine.cs) setup it was rather easy to add new states and scrapp those that weren't needed anymore.
 
-### How it works
+### How it works :grey_question:
 
 The state machine pattern is based on a simple idea, separating code in several parts - so called states - that all have their own task.
 Additionally in this project, I focused strictly on separating the "how is something done?" from the "what is supposed to happen?".
